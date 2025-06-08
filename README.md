@@ -1,8 +1,8 @@
-# Ester Carlebach
+#  Miri Strauss
 
 ## 🌟 **About Me**
 
-Hi, I'm Esther Carlebach, a Full Stack Developer. I complete tasks thoroughly through prior planning and self-directed learning, with strong teamwork skills and the ability to analyze existing code. I quickly adapt to new technologies and strive to realize my excellent capabilities.
+Hi, I'm Miri Strauss, a Full Stack Developer. I complete tasks thoroughly through prior planning and self-directed learning, with strong teamwork skills and the ability to analyze existing code. I quickly adapt to new technologies and strive to realize my excellent capabilities.
 ## 📁 **Featured Projects**
  
 • [Fruit-Vegetables-store](https://github.com/Ester-Carlebach/Fruit-Vegetables-store.git)- E2E project in SQL & C# & Angular.  
@@ -39,6 +39,6 @@ Client side: Generic components and use of middlewares.
 
 
 ## 📬 **Contact Me**  
-📧 Email: [esty41655@gmail.com](mailto:esty41655@gmail.com)  
+📧 Email: [ms0548540421@gmail.com](mailto:ms0548540421@gmail.com)  
 
 Feel free to check out my repositories for a closer look at my work!
