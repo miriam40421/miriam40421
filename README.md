@@ -5,9 +5,9 @@
 Hi, I'm Miri Strauss, a Full Stack Developer. I complete tasks thoroughly through prior planning and self-directed learning, with strong teamwork skills and the ability to analyze existing code. I quickly adapt to new technologies and strive to realize my excellent capabilities.
 ## 📁 **Featured Projects**
  
-• [Fruit-Vegetables-store](https://github.com/Ester-Carlebach/Fruit-Vegetables-store.git)- E2E project in SQL & C# & Angular.  
-Server side: 3-layer architecture with dependency injection, calculated fields.  
-Client side: Version control with Git, use of FormModules, dynamic form.
+• Dairy-restaurant-website- E2E project in SQL & C# & Angular.  
+[Server side](https://github.com/miriam40421/Dairy-restaurant-website-server)- 3-layer architecture with dependency injection, calculated fields.  
+[Client side](https://github.com/miriam40421/Dairy-restaurant-website-client)- Version control with Git, use of FormModules, dynamic form.
 
 • [Apartment-marketing-website](https://github.com/Ester-Carlebach/Apartment-marketing-website.git) E2E in Node.js & React.js & MongoDB –   
 Server side: Relationships between models, token encryption.   
