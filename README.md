@@ -5,18 +5,16 @@
 Hi, I'm Miri Strauss, a Full Stack Developer. I have a high ability to think and learn, meets commitments and schedules while working collaboratively, performs tasks consistently, is interested in realizing my skills at work, and promotes the product.
 ## 📁 **Featured Projects**
  
-**Dairy-restaurant-website – E2E Project in SQL & C# & Angular**
+**Dairy-restaurant-website – E2E Project using SQL, C#, and Angular**
 
-[Server side](https://github.com/miriam40421/Dairy-restaurant-website-server)- 3-layer architecture with dependency injection, calculated fields.  
-[Client side](https://github.com/miriam40421/Dairy-restaurant-website-client)- Version control with Git, use of FormModules, dynamic form.
+[🔗 Server Side](https://github.com/miriam40421/Dairy-restaurant-website-server) – Built with a clean 3-layer architecture, using dependency injection and calculated fields.  
+[🔗 Client Side](https://github.com/miriam40421/Dairy-restaurant-website-client) – forms using FormModules, and reactive user input handling.
 
- **Apartment Marketing Website – E2E Project**  
-**Technologies:** Node.js · React.js · MongoDB  
-End-to-end development of a real estate marketing website, including a modern user interface, backend API server, and database integration.  
-This project demonstrates Full Stack capabilities using a JavaScript-based tech stack.
+**Apartment-marketing-website – E2E Project using Node.js, React.js, and MongoDB**
 
-[Server side](https://github.com/miriam40421/Apartment-marketing-website-server): Relationships between models, token encryption.   
-[Client side](https://github.com/miriam40421/Apartment-marketing-website-client): Generic components and use of middlewares.
+[🔗 Server Side](https://github.com/miriam40421/Apartment-marketing-website-server) – Built with Node.js and Express, featuring RESTful APIs, Mongoose ODM, and secure routing.  
+[🔗 Client Side](https://github.com/miriam40421/Apartment-marketing-website-client) – Developed in React.js with state management, reusable components, and responsive design.
+
 
 ## 🛠️ **Languages and Tools**  
 <p align="left">
