@@ -2,7 +2,7 @@
 
 ## 🌟 **About Me**
 
-Hi, I'm Miri Strauss, a Full Stack Developer. I complete tasks thoroughly through prior planning and self-directed learning, with strong teamwork skills and the ability to analyze existing code. I quickly adapt to new technologies and strive to realize my excellent capabilities.
+Hi, I'm Miri Strauss, a Full Stack Developer. I have a high ability to think and learn, meets commitments and schedules while working collaboratively, performs tasks consistently, is interested in realizing my skills at work, and promotes the product.
 ## 📁 **Featured Projects**
  
 • Dairy-restaurant-website- E2E project in SQL & C# & Angular.  
