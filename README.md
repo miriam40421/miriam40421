@@ -8,7 +8,7 @@ Hi, I'm Miri Strauss, a Full Stack Developer. I have a high ability to think and
 **Dairy-restaurant-website – E2E Project using SQL, C#, and Angular**
 
 [🔗 Server Side](https://github.com/miriam40421/Dairy-restaurant-website-server) – Built with a clean 3-layer architecture, using dependency injection and calculated fields.  
-[🔗 Client Side](https://github.com/miriam40421/Dairy-restaurant-website-client) – forms using FormModules, and reactive user input handling.
+[🔗 Client Side](https://github.com/miriam40421/Dairy-restaurant-website-client) – Forms using FormModules, and reactive user input handling.
 
 **Apartment-marketing-website – E2E Project using Node.js, React.js, and MongoDB**
 
