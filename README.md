@@ -9,9 +9,9 @@ Hi, I'm Miri Strauss, a Full Stack Developer. I complete tasks thoroughly throug
 [Server side](https://github.com/miriam40421/Dairy-restaurant-website-server)- 3-layer architecture with dependency injection, calculated fields.  
 [Client side](https://github.com/miriam40421/Dairy-restaurant-website-client)- Version control with Git, use of FormModules, dynamic form.
 
-• [Apartment-marketing-website](https://github.com/Ester-Carlebach/Apartment-marketing-website.git) E2E in Node.js & React.js & MongoDB –   
-Server side: Relationships between models, token encryption.   
-Client side: Generic components and use of middlewares.
+• Apartment-marketing-website- E2E in Node.js & React.js & MongoDB –   
+[Server side](https://github.com/miriam40421/Apartment-marketing-website-server): Relationships between models, token encryption.   
+[Client side](https://github.com/miriam40421/Apartment-marketing-website-client): Generic components and use of middlewares.
 
 ## 🛠️ **Languages and Tools**  
 <p align="left">
