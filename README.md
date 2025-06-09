@@ -10,7 +10,7 @@ Hi, I'm Miri Strauss, a Full Stack Developer. I have a high ability to think and
 [Server side](https://github.com/miriam40421/Dairy-restaurant-website-server)- 3-layer architecture with dependency injection, calculated fields.  
 [Client side](https://github.com/miriam40421/Dairy-restaurant-website-client)- Version control with Git, use of FormModules, dynamic form.
 
-### ⭐ Highlight Project: **Apartment Marketing Website – E2E Project**  
+ **Apartment Marketing Website – E2E Project**  
 **Technologies:** Node.js · React.js · MongoDB  
 End-to-end development of a real estate marketing website, including a modern user interface, backend API server, and database integration.  
 This project demonstrates Full Stack capabilities using a JavaScript-based tech stack.
