@@ -42,6 +42,6 @@ Hi, I'm Miri Strauss, a Full Stack Developer. I have a high ability to think and
 
 
 ## 📬 **Contact Me**  
-📧 Email: [ms0548540421@gmail.com](mailto:ms0548540421@gmail.com)  
+📧 Email: [miriam40421@gmail.com](mailto:miriam40421@gmail.com)  
 
 Feel free to check out my repositories for a closer look at my work!
