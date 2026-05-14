@@ -1,10 +1,16 @@
-#  Miri Strauss
+#  Miriam Strauss 
 
 ## 🌟 **About Me**
 
 Hi, I'm Miri Strauss, a Full Stack Developer. I have a high ability to think and learn, meets commitments and schedules while working collaboratively, performs tasks consistently, is interested in realizing my skills at work, and promotes the product.
 ## 📁 **Featured Projects**
- 
+
+ **Accounting-management-system – Full Stack Accounting Management System**
+
+[🔗 Server Side](https://github.com/YOUR_USERNAME/accounting-management-system-server) – Developed with secure REST APIs, database management, business logic handling, validations, and scalable architecture.
+
+[🔗 Client Side](https://github.com/YOUR_USERNAME/accounting-management-system-client) – Built with a responsive and user-friendly interface, including forms, data tables, filtering, and financial management features.
+
 **Dairy-restaurant-website – E2E Project using SQL, C#, and Angular**
 
 [🔗 Server Side](https://github.com/miriam40421/Dairy-restaurant-website-server) – Built with a clean 3-layer architecture, using dependency injection and calculated fields.  
