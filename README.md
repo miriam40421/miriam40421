@@ -5,7 +5,7 @@
 Hi, I'm Miri Strauss, a Full Stack Developer. I have a high ability to think and learn, meets commitments and schedules while working collaboratively, performs tasks consistently, is interested in realizing my skills at work, and promotes the product.
 ## 📁 **Featured Projects**
 
- **Accounting-management-system – Full Stack Accounting Management System**
+ **Accounting-management-system – E2E Project using POSTGRESQL, C#, and Angular**
 
 [🔗 Server Side](https://github.com/YOUR_USERNAME/accounting-management-system-server) – Developed with secure REST APIs, database management, business logic handling, validations, and scalable architecture.
 
