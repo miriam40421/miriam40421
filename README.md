@@ -7,9 +7,9 @@ Hi, I'm Miri Strauss, a Full Stack Developer. I have a high ability to think and
 
  **Accounting-management-system – E2E Project using POSTGRESQL, C#, and Angular**
 
-[🔗 Server Side](https://github.com/miriam40421/accounting-management-system-server) – Developed with secure REST APIs, database management, business logic handling, validations, and scalable architecture.
+[🔗 Server Side]([https://github.com/miriam40421/accounting-management-system-server](https://github.com/AccountingFirmApp/accounting-office-management/tree/main/Backend/AccountingSystem)) – Developed with secure REST APIs, database management, business logic handling, validations, and scalable architecture.
 
-[🔗 Client Side](https://github.com/miriam40421/accounting-management-system-client) – Built with a responsive and user-friendly interface, including forms, data tables, filtering, and financial management features.
+[🔗 Client Side]([https://github.com/miriam40421/accounting-management-system-client](https://github.com/AccountingFirmApp/accounting-office-management/tree/main/Fronted)) – Built with a responsive and user-friendly interface, including forms, data tables, filtering, and financial management features.
 
 **Dairy-restaurant-website – E2E Project using SQL, C#, and Angular**
 
